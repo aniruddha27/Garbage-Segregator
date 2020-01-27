@@ -4,7 +4,7 @@ A machine learning based project to predict whether a garbage item is biodegrada
 
 We trained our own Artificial Neural Network and SVM.
 
-We also used pre-trained models, VGG16 and ResNet, available in Keras which had won ImageNet competitions in 2013 and 2015 respectively.
+We also used pre-trained models, VGG16 and ResNet to test on the data.
 
 ## Dataset link: https://drive.google.com/open?id=1YIO6SWMS48IgMZsm-3EJs8Evd0o4sBYB
 
